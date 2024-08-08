@@ -2,3 +2,5 @@ eval*
 eval.txt
 Aprendendo_Ruby/eval*
 .tool-versions
+config/*.rb
+
